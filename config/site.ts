@@ -5,6 +5,7 @@ export const siteConfig = {
   author: "Marek Krumal",
   links: {
     github: "https://github.com/MarekKrumal",
+    linkedin: "",
   },
 };
 
